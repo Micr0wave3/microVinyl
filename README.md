@@ -18,5 +18,5 @@ End of semester CAD project
 | 2020_alu_extrusion_250mm  | 4  | Done |
 | 2020_alu_extrusion_150mm  | 4  | Done |
 | 2020_3_way_corner_connect_m5  | 8  | Done |
-| M5_150mm_hex_bolt  | 24  | To be improved |
+| M5_15mm_hex_bolt  | 24  | To be improved |
 | turntable_support_plate  | 1  | Done |
