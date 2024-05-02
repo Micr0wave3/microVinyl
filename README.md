@@ -5,10 +5,10 @@ End of semester CAD project
 
 
 ## TODO List
-- [ ] Finish the extrusion base
+- [X] Finish the extrusion base
 - [ ] Finish the bolts for the corner assembly
-- [ ] Do the bolts for the vinyl plate support assembly
-- [ ] Make the thrust bearing for the plate support assembly
+- [ ] Do the bolts for the vinyl plate support assembly (M5 Hex bit)
+- [X] Make the thrust bearing for the plate support assembly
 - [ ] Finish the TODO list list list listlis rhauiog szbgksjrgb sr  osu
 
 ## Component List
